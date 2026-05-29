@@ -1,6 +1,6 @@
 # ScreenLogger
 
-[![Repo](https://img.shields.io/badge/github-repo-green?logo=github)](https://github.com/ws1336/ScreenLogger) [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue?color=green)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows|MacOS-green)]() [![GitHub release](https://img.shields.io/badge/release-v1.0.0-green)](https://github.com/ws1336/ScreenLogger/releases/latest)
+[![Repo](https://img.shields.io/badge/github-repo-green?logo=github)](https://github.com/ws1336/ScreenLogger) [![GPLv3](https://img.shields.io/badge/License-GPLv3-blue?color=green)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows|MacOS-green)]() [![GitHub release](https://img.shields.io/badge/release-v0.1.0-green)](https://github.com/ws1336/ScreenLogger/releases/latest)
 
 > 智能屏幕记录与活动分析工具 — 自动截屏 + AI 分析，让你的时间可视化。
 
