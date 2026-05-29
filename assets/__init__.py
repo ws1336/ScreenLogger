@@ -1,0 +1,1 @@
+from .assests_rc import *

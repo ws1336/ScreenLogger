@@ -1,0 +1,8 @@
+/.cache
+/conf/settings.ini
+/build
+/dist
+*.spec
+.DS_Store
+*.pyc
+__pycache__
